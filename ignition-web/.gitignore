@@ -36,3 +36,4 @@ build/
 *.zip
 *.csv
 path/to/file
+ignition-web/
