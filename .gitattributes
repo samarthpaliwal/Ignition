@@ -7,3 +7,5 @@
 /.venv/lib/python3.12/site-packages/PySide6/Qt/lib/QtWebEngineCore.framework/Versions/A/QtWebEngineCore filter=lfs diff=lfs merge=lfs -text
 *.ckpt filter=lfs diff=lfs merge=lfs -text
 *.onnx filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
