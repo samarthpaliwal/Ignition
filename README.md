@@ -23,7 +23,7 @@ It helps ML professionals trace and visualize every step of an AI’s reasoning,
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/Ignition.git
+git clone https://github.com/samarthpaliwal/Ignition.git
 cd Ignition
 ````
 
@@ -94,6 +94,4 @@ MIT License © 2025 Ignition Team
 - Built With section  
 - Model download instructions  
 - Contribution & license  
-
-👉 Do you also want me to generate a **`requirements.txt`** for this project so users don’t get missing-module errors?
 ```
