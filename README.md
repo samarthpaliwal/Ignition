@@ -1,6 +1,3 @@
-Perfect 🚀 Let’s make you a **single polished README.md** with everything merged in.
-You can copy–paste this directly into your repo as `README.md`:
-
 ````markdown
 # 🔥 Ignition
 
