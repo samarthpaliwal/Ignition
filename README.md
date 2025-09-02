@@ -32,6 +32,6 @@ Built with **PySide6 + llama.cpp + Ollama**, it supports both **local GGUF model
 Clone and run locally:
 
 ```bash
-git clone https://github.com/<your-username>/Ignition.git
+git clone https://github.com/samarthpaliwal/Ignition.git
 cd Ignition
 python ignition.py
