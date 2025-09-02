@@ -1,5 +1,5 @@
 ````markdown
-# 🔥 Ignition
+🔥 Ignition
 
 Ever wonder why your AI doesn’t give you the answer you need?  
 **Ignition** is a first-of-its-kind visual debugging tool for AI and LLMs.  
@@ -7,7 +7,7 @@ It helps ML professionals trace and visualize every step of an AI’s reasoning,
 
 ---
 
-## ✨ Features
+✨ Features
 - 📊 **Visual Trace Graph** — see how your AI reaches an answer  
 - 🛠️ **Debugging Tools** — edit steps, re-run from any point, and compare outputs  
 - 🔍 **Why Heatmap** — understand which tokens influenced the result  
@@ -16,15 +16,15 @@ It helps ML professionals trace and visualize every step of an AI’s reasoning,
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
-### 1. Clone the repo
+1. Clone the repo
 ```bash
 git clone https://github.com/samarthpaliwal/Ignition.git
 cd Ignition
 ````
 
-### 2. Install dependencies
+ 2. Install dependencies
 
 Make sure you have **Python 3.9+** installed.
 
@@ -32,7 +32,7 @@ Make sure you have **Python 3.9+** installed.
 pip install -r requirements.txt
 ```
 
-### 3. Run Ignition
+ 3. Run Ignition
 
 ```bash
 python ignition.py
@@ -40,7 +40,7 @@ python ignition.py
 
 ---
 
-## 🔧 Built With
+🔧 Built With
 
 * [Python 3.9+](https://www.python.org/)
 * [PySide6](https://doc.qt.io/qtforpython/) (Qt GUI)
@@ -50,7 +50,7 @@ python ignition.py
 
 ---
 
-## 📥 Download Models
+ 📥 Download Models
 
 Ignition is designed to work with **OpenAI’s GPT-OSS models**.
 You’ll need to download them separately:
@@ -70,13 +70,13 @@ ollama run <model>
 
 ---
 
-## 🧑‍💻 Contributing
+ 🧑‍💻 Contributing
 
 Pull requests are welcome! If you’d like to contribute, fork the repo and submit a PR.
 
 ---
 
-## 📄 License
+ 📄 License
 
 MIT License © 2025 Ignition Team
 
