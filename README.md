@@ -27,6 +27,11 @@ Built with **PySide6 + llama.cpp + Ollama**, it supports both **local GGUF model
 - macOS, Linux, or Windows  
 - [Ollama](https://ollama.ai) (optional, for streaming models)  
 
-Install dependencies:  
+## ▶️ Running Ignition
+
+Clone and run locally:
+
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/<your-username>/Ignition.git
+cd Ignition
+python ignition.py
