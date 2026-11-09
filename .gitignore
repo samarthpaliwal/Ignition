@@ -1,1 +1,39 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# model weights and downloads
+gpt-oss-120b/
+gpt-oss-20b/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.ckpt
+*.onnx
+
+# llama.cpp checkout and build output
+llama.cpp/
+build/
+*.o
+*.so
+*.dylib
+
+# app output
+bench_results.json
+
+# editor and OS
+.vscode/
+.idea/
+.DS_Store
+._*
+
+# previously ignored web prototype
 ignition-web/
